@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;1,400&display=swap");
+
+h1,
+h2,
+p,
+figure {
+  font-family: "Montserrat", sans-serif;
+}
+
+h1,
+h2 {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+span {
+  font-weight: 500;
+  font-style: italic;
+  color: blue;
+}
+
+div.article,
+a,
+h1 {
+  margin: 30px 120px 30px 120px;
+}
+
+#question {
+  color: red;
+  font-style: oblique;
+  font-weight: bolder;
+}
+
+body {
+  background-color: rgb(245, 242, 242);
+}
